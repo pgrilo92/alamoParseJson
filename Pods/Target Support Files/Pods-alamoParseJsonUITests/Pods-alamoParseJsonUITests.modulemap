@@ -1,0 +1,6 @@
+framework module Pods_alamoParseJsonUITests {
+  umbrella header "Pods-alamoParseJsonUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
